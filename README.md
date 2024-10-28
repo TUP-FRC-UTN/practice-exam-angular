@@ -5,7 +5,7 @@
 Desarrollar una aplicación web en Angular 18 para gestionar pedidos de una tienda de productos tecnológicos, implementando routing, reactive forms con validaciones, y comunicación con API.
 
 ## Requerimientos Técnicos
-
+- **En la carpeta `assets` encontrará los mockups del sistema que debe tomar como referencia para el desarrollo de la interfaz**
 1. Angular CLI 18.x
 2. Bootstrap 5.x
 3. JSON Server (proporcionado)
